@@ -126,6 +126,18 @@
     cursor: pointer;
     
 }
+.Text {
+    position: absolute;
+    top:70%;
+    left: 50%;
+    display: flex;
+    justify-content: start;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+}
+
 
 .arrow2 {
     position: absolute;
